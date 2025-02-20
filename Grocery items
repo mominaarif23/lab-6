@@ -6,5 +6,8 @@ Console.WriteLine("Household");
 string x = Convert.ToString(Console.ReadLine());
 Console.WriteLine("Fruit");
 string x = Convert.ToString(Console.ReadLine());
+2nd-branch
+Console.WriteLine("dairy");
 Console.WriteLine("vagetables");
+main
 string x = Convert.ToString(Console.ReadLine());

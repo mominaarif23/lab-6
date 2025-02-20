@@ -1,0 +1,10 @@
+Console.WriteLine("***Grocery Item***");
+string x = Convert.ToString(Console.ReadLine());
+Console.WriteLine("Apple");
+string x = Convert.ToString(Console.ReadLine());
+Console.WriteLine("Household");
+string x = Convert.ToString(Console.ReadLine());
+Console.WriteLine("Fruit");
+string x = Convert.ToString(Console.ReadLine());
+Console.WriteLine("Milk");
+string x = Convert.ToString(Console.ReadLine());
